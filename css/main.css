@@ -60,7 +60,7 @@ nav a:hover{
    margin-right:11%;
   border-radius: 3%;
   position: absolute;
-  top:85%;
+  top:80%;
   left: 25%;
   width:50%;
 }
@@ -82,7 +82,7 @@ hr {
    margin-right:11%;
   border-radius: 3%;
   position: absolute;
-  top:47%;
+  top:40%;
   left: 25%;
   width:50%;
 }
@@ -97,7 +97,7 @@ hr {
   padding: 10px;
   margin: 10px;
   position: absolute;
-  top: 65%;
+  top: 60%;
   left: 25%;
   width:50%;
 }
