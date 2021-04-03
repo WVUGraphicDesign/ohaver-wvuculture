@@ -1,6 +1,6 @@
 
 body {
-  background-color: #FFFAF0;
+background-color: #FFFAF0;
 }
 nav li {
   float: left;
@@ -37,14 +37,14 @@ nav a:hover{
   color: white;
   border-radius: 2%;
 }
-}
+
 .header{
   position: relative;
 }
 .header img{
   margin-left: 4%;
   margin-bottom: 3%;
-  opacity: 75%;
+  opacity: 40%;
   margin-top: 0%;
 }
 
@@ -52,16 +52,15 @@ nav a:hover{
   text-align: center;
   font-family: georgia;
   font-weight: bold;
-  font-size: 20pt;
+  font-size: 16pt;
   margin-top: 5%;
-   background-color: #FAEBD7;
    padding: 10px;
    margin: 10px;
    margin-right:11%;
   border-radius: 3%;
   position: absolute;
-  top:80%;
-  left: 25%;
+  top:75%;
+  left: 45%;
   width:50%;
 }
 
@@ -75,15 +74,13 @@ hr {
   font-family: georgia;
   font-weight: bold;
   font-size: 20pt;
-  margin-top: 5%;
-   background-color: #FAEBD7;
    padding: 10px;
    margin: 10px;
    margin-right:11%;
   border-radius: 3%;
   position: absolute;
-  top:40%;
-  left: 25%;
+  top:10%;
+  left: 45%;
   width:50%;
 }
 
@@ -97,8 +94,8 @@ hr {
   padding: 10px;
   margin: 10px;
   position: absolute;
-  top: 60%;
-  left: 25%;
+  top: 30%;
+  left: 45%;
   width:50%;
 }
 
@@ -365,10 +362,6 @@ width: 940px;
    border-radius: 2%;
    position: absolute;
    left: 20%;
-}
-
-.resource hr{
-  order: 3px solid black;
 }
 
 .resource li {
@@ -779,7 +772,6 @@ width: 940px;
 .develop p{
   font-size: 20px;
   font-family: helvetica;
-  text-align:
 }
 
 .develope{
@@ -839,9 +831,9 @@ left: 95%;
 }
 
 .state p{
-  text-align: centered;
   font-size: 16px;
   margin-top: 5%;
+  text-align: center;
 }
 
 .state h2{
